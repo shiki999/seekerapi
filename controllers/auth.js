@@ -29,7 +29,6 @@ exports.preSignup = (req, res) => {
           <p>${process.env.CLIENT_URL}/auth/account/activate/${token}</p>
           <hr />
           <p>This email may contain sensetive information</p>
-          <p>https://seoblog.com</p>
       `
       };
 
